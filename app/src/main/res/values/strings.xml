@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Hello Group Assessment</string>
+  <string name="description_format">%1$s\n\n%2$s</string>
+  <string name="prompt_username">Username</string>
+  <string name="prompt_password">Password</string>
+  <string name="action_sign_in">Sign In</string>
+  <string name="action_sign_up">Sign Up</string>
+</resources>
