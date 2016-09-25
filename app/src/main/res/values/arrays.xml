@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-  <string-array name="urls">
-    <item>cereal-guy</item>
-    <item>fck-yea</item>
-    <item>forever-alone</item>
-    <item>freddie-mercury-rage-pose</item>
-    <item>lol-guy</item>
-    <item>neil-degrasse-tyson-reaction</item>
-    <item>oh-crap-omg-rage-face</item>
-    <item>okay-guy</item>
-    <item>rage-guy-fffffuuuuuuuu</item>
-    <item>trollface-coolface-problem</item>
-    <item>y-u-no-guy</item>
-    <item>yao-ming-face-bitch-please</item>
-  </string-array>
 </resources>
