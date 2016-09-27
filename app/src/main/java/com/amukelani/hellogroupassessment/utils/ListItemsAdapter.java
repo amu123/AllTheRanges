@@ -1,4 +1,4 @@
-package com.raywenderlich.hellogroupassessment.utils;
+package com.amukelani.hellogroupassessment.utils;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
