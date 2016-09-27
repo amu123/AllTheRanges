@@ -35,8 +35,6 @@ public class ListItemsFragment extends Fragment {
   private Button btnResetItem;
   private static String PREFS_NAME = "SharedPreferences";
 
-//  private OnRageComicSelected mListener;
-
   public static ListItemsFragment newInstance(int resId) {
 
     final Bundle args = new Bundle();
