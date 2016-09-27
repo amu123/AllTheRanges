@@ -1,4 +1,4 @@
-package com.raywenderlich.hellogroupassessment;
+package com.amukelani.hellogroupassessment;
 
 import android.content.Context;
 import android.content.Intent;
