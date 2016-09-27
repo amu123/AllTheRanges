@@ -1,4 +1,4 @@
-package com.raywenderlich.hellogroupassessment.models;
+package com.amukelani.hellogroupassessment.models;
 
 /**
  * Created by Amukelani on 9/25/16.
